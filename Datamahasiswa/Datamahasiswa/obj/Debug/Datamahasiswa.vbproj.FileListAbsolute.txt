@@ -1,0 +1,11 @@
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\bin\Debug\Datamahasiswa.exe.config
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\bin\Debug\Datamahasiswa.exe
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\bin\Debug\Datamahasiswa.pdb
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\bin\Debug\Datamahasiswa.xml
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.vbprojResolveAssemblyReference.cache
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.Form1.resources
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.Resources.resources
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.vbproj.GenerateResource.Cache
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.exe
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.xml
+D:\17.12.0417\Visual Studio\Datamahasiswa\Datamahasiswa\obj\Debug\Datamahasiswa.pdb
